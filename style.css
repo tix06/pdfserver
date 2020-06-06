@@ -1,0 +1,38 @@
+body{
+	background: #555555;
+}
+main{
+	text-align:center;
+}
+
+.main_menu{
+	font-size:36px;
+	width:400px;
+	display:inline-block;
+	vertical-align:middle;
+	text-align:left;
+}
+
+.index{
+	font-size:24px;
+	width:400px;
+	display:inline-block;
+	vertical-align:middle;
+	text-align:left;
+}
+
+a{
+	color:#CCCCCC;
+}
+
+a:hover{
+	color:#FFFFFF;
+}
+
+ul{
+	list-style-type: none; 
+}
+
+ul.pdf{
+	list-style-image: url("logo.png");
+}
